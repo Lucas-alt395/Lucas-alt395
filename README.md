@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Lucas-alt395
 - 👀 I’m interested in coding.
+<!---
 - 🌱 I’m currently learning HTML and C/C++
+--->
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach to me with my email: 
